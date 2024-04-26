@@ -6,6 +6,7 @@
     - [Team Settings](/team-settings)
     - [Plugins](/plugins)
     - [Configs](/configs)
+    <!---
     - [API Tokens](/api-tokens)
     - [Browser Sessions](/browser-sessions)
     - [Calendar Records](/calendar-records)
@@ -25,3 +26,4 @@
     - [Templates](/templates)
     - [2FA](/two-factor-authentication)
     - [Vacations](/vacations)
+    -->
