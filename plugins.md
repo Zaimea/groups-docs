@@ -18,13 +18,13 @@ The plugins are optional, they are activated according to your needs and offer y
 
 <div class="plugins" markdown="1">
 
-[charts](#plugin-charts)
-[clients](#plugin-clients)
-[locking](#plugin-locking)
-[monthly_quotas](#plugin-monthly-quotas)
-[report_approval](#plugin-report-approval)
-[templates](#plugin-templates)
-[tasks](#plugin-tasks)
+[Charts](#plugin-charts)
+[Clients](#plugin-clients)
+[Locking](#plugin-locking)
+[Monthly Quotas](#plugin-monthly-quotas)
+[Report Approval](#plugin-report-approval)
+[Templates](#plugin-templates)
+[Tasks](#plugin-tasks)
 
 </div>
 
