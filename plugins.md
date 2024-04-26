@@ -53,6 +53,7 @@ The `Charts` plugin allow to see graphics about working hours and can be filtere
 The `Clients` plugin allow to work with other company and can see information that belongs to them.
 
 In the first phase you have to create a client:
+
     Client name: required
     Adress: required
     Status: active/inactive
@@ -61,6 +62,7 @@ In the first phase you have to create a client:
 If you entered the wrong data during creation, don't worry, they can be modified, go to `Manage Clients' and there you will see a list of clients and the modification actions.
 
 Members can be added to clients or not, they must be invited and if they accept they will be part as a member belonging to that client.
+
     Email: required
     Client: required
     Status: active/inactive
