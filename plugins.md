@@ -31,7 +31,7 @@ The plugins are optional, they are activated according to your needs and offer y
 <a name="plugin-charts"></a>
 #### `Charts`
 
-The `Charts` plugin allow to see graphics about working hours and can be filtered
+The `Charts` plugin allows to see graphics about working hours and can be filtered
 
     By: Work, Holiday, Vacation, Medical.
     
@@ -50,7 +50,7 @@ The `Charts` plugin allow to see graphics about working hours and can be filtere
 <a name="plugin-clients"></a>
 #### `Clients`
 
-The `Clients` plugin allow to work with other company and can see information that belongs to them.
+The `Clients` plugin allows to work with other company and can see information that belongs to them.
 
 In the first phase you have to create a client:
 
@@ -68,13 +68,13 @@ Members can be added to clients or not, they must be invited and if they accept 
     Status: active/inactive
     Role: required
 
-As above, the members will appear in the list of members and can be changed later.
+As above, the members will appear in the list of members and can be modified later.
 
 <a name="plugin-locking"></a>
 #### `Locking`
 
 The `Locking` plugin allows to lock records from modifications as per configurable schedule.
-We uses cron format specification to schedule its notifications and calculate record locking. You can read more about it HERE.
+We uses cron format specification to calculate record locking. You can read more about it HERE.
 Essentially, it is 5 text fields separated by spaces. The fields hold possible values for minute, hour, day of month, month, and day of week. Here are some examples:
 
     0 * * * * - hourly on top of the hour
@@ -100,7 +100,7 @@ When set, this Quota Percent option changes the quota calculation algorithm for 
 <a name="plugin-report-approval"></a>
 #### `Report Approval`
 
-The `Report Approval` plugin allows members with permissions `team:record:read` to read and `team:record:read` to approve/disapprove a record created by a member.
+The `Report Approval` plugin allows members with permissions `team:record:read` to read and `team:record:approve` to approve/disapprove a record created by a member.
 Records can be searched by `name`, `email`, `date`.
 
 <a name="plugin-templates"></a>
@@ -114,7 +114,7 @@ You can enable the `Templates` plugin on the `Plugins` section from `Team Settin
 
 ## Adding a Template
 
-Use the `Templates` page from `Team Panel` to add a new template. The screen may look like a screenshot below. Provide the required values and click the `Create` button.
+Use the `Templates` page from `Team Panel` to add a new template. Provide the required values and click the `Create` button.
 
 ## Required Input Parts
 
@@ -135,7 +135,7 @@ Otherwise, Incorrect `Note` data error shows up
 <a name="plugin-tasks"></a>
 #### `Tasks`
 
-The `Tasks` plugin allpws to track work time by tasks in addition to projects use the project and tasks tracking mode. You can set it on the `Team Settings` page.
+The `Tasks` plugin allows to track work time by tasks in addition to projects use the project and tasks tracking mode. You can set it on the `Team Settings` page.
 
 To manage tasks use the Tasks tab in the Sidebar menu. This capability is available to users having the `team:template:create`, `team:template:read`, `team:template:update` and `team:template:delete` access right (default Co-manager, Manager, Top manager and Owner roles).
 
