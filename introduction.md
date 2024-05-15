@@ -14,7 +14,7 @@ Zaimea is an application that helps you to simplify the reporting of working hou
 
 Don't need to write code or worry about having to pay a team for it, with us, you can even help improve the application by requesting to add new features or reporting errors.
 
-> The application can be used on your own or within a company. You can find more details by accessing [https://zaimea.com/prices](https://zaimea.com/prices)
+> The application can be used on your own or within a company. You can find more details by accessing [zaimea.com/prices](https://zaimea.com/prices)
 
 <a name="why-zaimea"></a>
 ## Why Zaimea?
