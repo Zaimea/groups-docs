@@ -1,6 +1,6 @@
 ---
 title: Installation
-description: Use Zaimea API
+description: How to use application
 ---
 
 # Installation

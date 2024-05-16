@@ -1,5 +1,6 @@
 - ## Getting Started
     - [Introduction](/introduction)
+    - [Installation](/instalation)
 
 - ## Usage
     - [Team Settings](/team-settings)
