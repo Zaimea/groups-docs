@@ -10,11 +10,11 @@ description: About tasks on our Application
 <a name="introduction"></a>
 ## Introduction
 
-To track work time by tasks in addition to projects use the project and tasks tracking mode. You can set it on the `Team Settings` page.
+To track work time by tasks in addition to projects use the project and tasks tracking mode. You can set it on the `Group Settings` page.
 
 ![Tracking mode](https://raw.githubusercontent.com/zaimea/zaimea-docs/main/preview/tasks-trackingmode.jpg)
 
-To manage tasks use the Tasks tab in the Sidebar menu. This capability is available to users having the `team:template:create`, `team:template:read`, `team:template:update` and `team:template:delete` access right (default Co-manager, Manager, Top manager and Owner roles).
+To manage tasks use the Tasks tab in the Sidebar menu. This capability is available to users having the `group:template:create`, `group:template:read`, `group:template:update` and `group:template:delete` access right (default Co-manager, Manager, Top manager and Owner roles).
 
 The Required checkbox on Configs is responsible for making a task selection mandatory on time entry and edit pages. 
 

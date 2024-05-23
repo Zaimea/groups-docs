@@ -38,7 +38,7 @@ The `Charts` plugin allows to see graphics about working hours and can be filter
     Type: Projects, Tasks, Clients.
     
     Users: - Self.
-           - Team members(need permission `team:chart:view`).
+           - Group members(need permission `group:chart:view`).
            - As client can also select witch users to count from `clientpanel`.
 
     Date: Insert date or select from calendar.
@@ -85,7 +85,7 @@ Essentially, it is 5 text fields separated by spaces. The fields hold possible v
 #### `Monthly Quotas`
 
 The `Monthly Quotas` plugin adds a capability for members to see their monthly work hour quotas.
-Quota (%) is a user setting. It can be configured on member edit pop-up (Team Panel - Members, User edit or Add). It is used with Monthly Quotas plugin, which displays time quotas information to users when they work with their time (on calendar).
+Quota (%) is a user setting. It can be configured on member edit pop-up (Group Panel - Members, User edit or Add). It is used with Monthly Quotas plugin, which displays time quotas information to users when they work with their time (on calendar).
 
 With enabled Monthly Quotas plugin, one can define time quotas for each month, by either specifying the number of hours and minutes directly, or by multiplying work days and workday hours. This quota is treated as 100% quota, available to a full-time employee.
 
@@ -100,7 +100,7 @@ When set, this Quota Percent option changes the quota calculation algorithm for 
 <a name="plugin-report-approval"></a>
 #### `Report Approval`
 
-The `Report Approval` plugin allows members with permissions `team:record:read` to read and `team:record:approve` to approve/disapprove a record created by a member.
+The `Report Approval` plugin allows members with permissions `group:record:read` to read and `group:record:approve` to approve/disapprove a record created by a member.
 Records can be searched by `name`, `email`, `date`.
 
 <a name="plugin-templates"></a>
@@ -110,11 +110,11 @@ The `Templates` plugin provides an additional dropdown selector on time entry pa
 
 ## Enabling Templates Plugin
 
-You can enable the `Templates` plugin on the `Plugins` section from `Team Settings`. Mark the checkbox and then click Save. After that, you can use the Configure link to the right of checkbox to add new templates.
+You can enable the `Templates` plugin on the `Plugins` section from `Group Settings`. Mark the checkbox and then click Save. After that, you can use the Configure link to the right of checkbox to add new templates.
 
 ## Adding a Template
 
-Use the `Templates` page from `Team Panel` to add a new template. Provide the required values and click the `Create` button.
+Use the `Templates` page from `Group Panel` to add a new template. Provide the required values and click the `Create` button.
 
 ## Required Input Parts
 
@@ -135,9 +135,9 @@ Otherwise, Incorrect `Note` data error shows up
 <a name="plugin-tasks"></a>
 #### `Tasks`
 
-The `Tasks` plugin allows to track work time by tasks in addition to projects use the project and tasks tracking mode. You can set it on the `Team Settings` page.
+The `Tasks` plugin allows to track work time by tasks in addition to projects use the project and tasks tracking mode. You can set it on the `Group Settings` page.
 
-To manage tasks use the Tasks tab in the Sidebar menu. This capability is available to users having the `team:template:create`, `team:template:read`, `team:template:update` and `team:template:delete` access right (default Co-manager, Manager, Top manager and Owner roles).
+To manage tasks use the Tasks tab in the Sidebar menu. This capability is available to users having the `group:template:create`, `group:template:read`, `group:template:update` and `group:template:delete` access right (default Co-manager, Manager, Top manager and Owner roles).
 
 The Required checkbox on Configs is responsible for making a task selection mandatory on time entry and edit pages.
 

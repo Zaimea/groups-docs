@@ -22,8 +22,8 @@ Reporting works differently depending on member role.<br>
 Regular Members can create and view reports for themselves.<br>
 Supervisors can additionally do reporting for lower rank roles.<br>
 Clients can do reporting for a single client.<br>
-Top manager, Managers and Co-managers can do reporting for the entire team.<br>
-The above applies to unmodified member roles. For customized roles the ability to do reporting depends on having team:report:view_own, team:report:create, or team_client:view_own in member role.<br>
+Top manager, Managers and Co-managers can do reporting for the entire group.<br>
+The above applies to unmodified member roles. For customized roles the ability to do reporting depends on having group:report:view_own, group:report:create, or group_client:view_own in member role.<br>
 
 Fields and options available in reports depend on which features are enabled for your group. For example, when Clients plugin is enabled, you can filter or group reports by client. To configure and to turn on extra features use the Plugins tab.
 
@@ -66,7 +66,7 @@ Use the Show fields block to select columns for report.
 <a name="grouping"></a>
 ## Grouping Report Items
 
-Team reports can be optionally grouped using the following entities:
+Group reports can be optionally grouped using the following entities:
 - date
 - user
 - client

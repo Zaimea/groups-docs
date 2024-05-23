@@ -11,9 +11,9 @@ description: Calendar feature
 <a name="introduction"></a>
 ## Introduction
 
-Application has a Calendar feature. It allows team members to follow their work schedule, with multiple variations of settings, such as: projects, tasks, templates or clients.
-Each `team` has his own calendar, so if a user has more than one `team` than he are not allowed to read records from other team in current team calendar.
-Certain days can be blocked for members who don't have the `team:calendar:override_date_lock` permission, which allows them to insert even if the date is blocked or you can use `Future Entries`, no one will be allowed to insert if the desired date is in the future. If necessary, you can activate the `Report approval` function in 'team settings'.
+Application has a Calendar feature. It allows group members to follow their work schedule, with multiple variations of settings, such as: projects, tasks, templates or clients.
+Each `group` has his own calendar, so if a user has more than one `group` than he are not allowed to read records from other group in current group calendar.
+Certain days can be blocked for members who don't have the `group:calendar:override_date_lock` permission, which allows them to insert even if the date is blocked or you can use `Future Entries`, no one will be allowed to insert if the desired date is in the future. If necessary, you can activate the `Report approval` function in 'group settings'.
 You can insert the start time and end or just the duration, depending on the chosen configuration. To each record can be assigned a color from the given list.
 
 

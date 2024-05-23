@@ -14,7 +14,7 @@ description: About locking records on our Application
 <a name="introduction"></a>
 ## Introduction
 
-You can use the `Locking` plugin to lock records for modifications on schedule defined for your team. The locking feature applies to users, who do not have the `team:calendar:override_date_lock` or `team:calendar:override_own_date_lock` access right in their role (such as regular users). Supervisors and higher managers, by default, can create and modify records even with the Locking plugin enabled, unless the `team:calendar:override_date_lock` is removed from their role.
+You can use the `Locking` plugin to lock records for modifications on schedule defined for your group. The locking feature applies to users, who do not have the `group:calendar:override_date_lock` or `group:calendar:override_own_date_lock` access right in their role (such as regular users). Supervisors and higher managers, by default, can create and modify records even with the Locking plugin enabled, unless the `group:calendar:override_date_lock` is removed from their role.
 
 Potential applications include a scenario when time entries must be ready by a specific moment for payroll processing, or something similar.
 
@@ -27,12 +27,12 @@ We consider such records finalized and prohibit edits. If a record must be edite
 <a name="enable"></a>
 ## Enabling Locking Plugin
 
-To enable `locking`, check the Locking box in the `Plugins` section from `Team Settings` and click Save.
+To enable `locking`, check the Locking box in the `Plugins` section from `Group Settings` and click Save.
 
 <a name="configure"></a>
 ## Configuring Records Locking
 
-You cann acces it `Team Panel` on sidebar menu you can find `Lockings`. The page that appears allows you to configure how locking works. On it, simply define your cron schedule for locking.
+You cann acces it `Group Panel` on sidebar menu you can find `Lockings`. The page that appears allows you to configure how locking works. On it, simply define your cron schedule for locking.
 
 ![create-lockings](https://raw.githubusercontent.com/zaimea/zaimea-docs/main/preview/lockings.jpg)
 
@@ -56,6 +56,6 @@ Unfortunately, cron format does not allow to specify every other week cut-off sc
 <a name="error"> </a>
 ## Date Range Is Locked Error
 
-When users try to enter or modify records in a locked date interval, they see a Date range is locked error. Locking is not applied to users who have the `team:calendar:override_date_lock` or `team:calendar:override_own_date_lock` right.
+When users try to enter or modify records in a locked date interval, they see a Date range is locked error. Locking is not applied to users who have the `group:calendar:override_date_lock` or `group:calendar:override_own_date_lock` right.
 
 ![create-lockings](https://raw.githubusercontent.com/zaimea/zaimea-docs/main/preview/locking-error.jpg)

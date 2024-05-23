@@ -18,14 +18,14 @@ Templates plugin in Application, when enabled, provides an additional dropdown s
 <a name="enable"></a>
 ## Enabling Templates Plugin
 
-You can enable the `Templates` plugin on the `Plugins` section from `Team Settings`. Mark the checkbox and then click Save. After that, you can use the Configure link to the right of checkbox to add new templates.
+You can enable the `Templates` plugin on the `Plugins` section from `Group Settings`. Mark the checkbox and then click Save. After that, you can use the Configure link to the right of checkbox to add new templates.
 
 ![Templates](https://raw.githubusercontent.com/zaimea/zaimea-docs/main/preview/templates-enable.jpg)
 
 <a name="create"></a>
 ## Adding a Template
 
-Use the `Templates` page from `Team Panel` to add a new template. The screen may look like a screenshot below. Provide the required values and click the `Create` button.
+Use the `Templates` page from `Group Panel` to add a new template. The screen may look like a screenshot below. Provide the required values and click the `Create` button.
 
 ![Templates-create](https://raw.githubusercontent.com/zaimea/zaimea-docs/main/preview/templates-create.jpg)
 

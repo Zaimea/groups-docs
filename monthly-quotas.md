@@ -10,9 +10,9 @@ description: About monthly quotas on our Application
 <a name="introduction"></a>
 ## Introduction
 
-Plugin adds a capability for users to see their monthly work hour quotas and apprear a new menu within name `Monthly Quotas` in Team Panel.
+Plugin adds a capability for users to see their monthly work hour quotas and apprear a new menu within name `Monthly Quotas` in Group Panel.
 
-Quota (%) is a user setting. It can be configured on member edit pop-up (Team Panel - Members, User edit or Add). It is used with Monthly Quotas plugin, which displays time quotas information to users when they work with their time (on calendar).
+Quota (%) is a user setting. It can be configured on member edit pop-up (Group Panel - Members, User edit or Add). It is used with Monthly Quotas plugin, which displays time quotas information to users when they work with their time (on calendar).
 
 With enabled Monthly Quotas plugin, one can define time quotas for each month, by either specifying the number of hours and minutes directly, or by multiplying work days and workday hours. This quota is treated as 100% quota, available to a full-time employee.
 

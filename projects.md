@@ -12,14 +12,14 @@ description: About projects on our Application
 <a name="introduction"></a>
 ## Introduction
 
-Projects are available in Application when you use either projects or projects and tasks tracking mode. You can set the tracking mode on the `Team settings` page.
+Projects are available in Application when you use either projects or projects and tasks tracking mode. You can set the tracking mode on the `Group settings` page.
 
 ![Tracking mode](https://raw.githubusercontent.com/zaimea/zaimea-docs/main/preview/project-trackingmode.jpg)
 
 <a name="manage"></a>
 ## Manage Projects
 
-To manage projects use the Projects tab. Members in roles having the `team:project:create` access right (default Co-manager, Manager, Top manager and Owner roles) can create new projects with the `Create` button. They can also edit or delete projects using the Edit and Delete icons in the project table if they have access right.
+To manage projects use the Projects tab. Members in roles having the `group:project:create` access right (default Co-manager, Manager, Top manager and Owner roles) can create new projects with the `Create` button. They can also edit or delete projects using the Edit and Delete icons in the project table if they have access right.
 
 ![Projects](https://raw.githubusercontent.com/zaimea/zaimea-docs/main/preview/projects.jpg)
 

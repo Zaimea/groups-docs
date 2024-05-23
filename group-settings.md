@@ -1,21 +1,21 @@
 ---
-title: Team Settings
-description: About team settings on our Application
+title: Group Settings
+description: About group settings on our Application
 ---
 
-# Team Settings
+# Group Settings
 
 - [Introduction](#introduction)
 
 <a name="introduction"></a>
 ## Introduction
 
-From here you can configure the team settings according to your preferences and needs,
+From here you can configure the group settings according to your preferences and needs,
 
 ## Name and Description
 
 
-## Team settings
+## Group settings
  - Language
  - Time Format
  - Date Format

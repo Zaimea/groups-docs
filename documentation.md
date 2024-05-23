@@ -3,7 +3,7 @@
     - [Installation](/instalation)
 
 - ## Usage
-    - [Team Settings](/team-settings)
+    - [Group Settings](/group-settings)
     - [Plugins](/plugins)
     - [Configs](/configs)
     <!---
@@ -13,7 +13,7 @@
     - [Calendar](/calendar)
     - [Charts](/charts)
     - [Clients](/clients)
-    - [Create New Team](/create-new-team)
+    - [Create New Group](/create-new-group)
     - [Holidays](/holidays)
     - [Lockings](/lockings)
     - [Medicals](/medicals)
@@ -22,7 +22,7 @@
     - [Projects](/projects)
     - [Reports](/reports)
     - [Tasks](/tasks)
-    - [Team Roles](/team-roles)
+    - [Group Roles](/group-roles)
     - [Templates](/templates)
     - [2FA](/two-factor-authentication)
     - [Vacations](/vacations)
