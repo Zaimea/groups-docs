@@ -1,6 +1,6 @@
 - ## Getting Started
     - [Introduction](/introduction)
-    - [Installation](/instalation)
+    - [Installation](/installation)
 
 - ## Usage
     - [Group Settings](/group-settings)
