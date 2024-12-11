@@ -9,6 +9,7 @@ description: About 2FA on our Application
 - [Enable](#enable)
 
 <a name="introduction"></a>
+
 ## Introduction
 
 `2FA` is implemented to better protect both a `user's` credentials and the resources the user can access. `Two factor authentication` provides a higher level of security than authentication methods that depend on `single-factor authentication` (SFA), in which the user provides only one factor -- typically, a password or passcode. `Two factor authentication` methods rely on a user providing a password as the first factor and a second, different factor -- usually either a security token or a biometric factor, such as a fingerprint or facial scan.
@@ -20,6 +21,7 @@ Application security features are accessed by the user using the top-right user 
 When a user enables two-factor authentication for their account, they should scan the given QR code using a free TOTP authenticator application such as Google Authenticator. In addition, they should store the listed recovery codes in a secure password manager such as 1Password.
 
 <a name="enable"></a>
+
 ## Enable Two factor authentication
 
 All you have to do is press the `Enable` button, then a pop-up will appear where you have to confirm the password.

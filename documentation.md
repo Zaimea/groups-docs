@@ -1,19 +1,17 @@
 - ## Getting Started
     - [Introduction](/introduction)
-    - [Installation](/installation)
+    - [Usage](/usage)
 
-- ## Usage
+- ## Group Usage
+    - [Create New Group](/create-new-group)
     - [Group Settings](/group-settings)
+    - [Group Roles](/group-roles)
     - [Plugins](/plugins)
     - [Configs](/configs)
-    <!---
-    - [API Tokens](/api-tokens)
-    - [Browser Sessions](/browser-sessions)
-    - [Calendar Records](/calendar-records)
     - [Calendar](/calendar)
+    - [Calendar Records](/calendar-records)
     - [Charts](/charts)
     - [Clients](/clients)
-    - [Create New Group](/create-new-group)
     - [Holidays](/holidays)
     - [Lockings](/lockings)
     - [Medicals](/medicals)
@@ -22,8 +20,14 @@
     - [Projects](/projects)
     - [Reports](/reports)
     - [Tasks](/tasks)
-    - [Group Roles](/group-roles)
     - [Templates](/templates)
-    - [2FA](/two-factor-authentication)
     - [Vacations](/vacations)
-    -->
+
+
+- ## User Usage
+    - [Profile](/profile)
+    - [Delete Account](/delete-account)
+    - [Browser Sessions](/browser-sessions)
+    - [2FA](/two-factor-authentication)
+    - [API Tokens](/api-tokens)
+    - [Browser Sessions](/browser-sessions)

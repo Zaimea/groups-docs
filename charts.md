@@ -8,6 +8,7 @@ description: About Charts on our Application
 - [Introduction](#introduction)
 
 <a name="introduction"></a>
+
 ## Introduction
 
 To view `Charts`, you must activate the `Charts` plugin in the `Group settings` section `Plugins`.

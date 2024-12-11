@@ -8,6 +8,7 @@ description: About monthly quotas on our Application
 - [Introduction](#introduction)
 
 <a name="introduction"></a>
+
 ## Introduction
 
 Plugin adds a capability for users to see their monthly work hour quotas and apprear a new menu within name `Monthly Quotas` in Group Panel.

@@ -8,6 +8,7 @@ description: About tasks on our Application
 - [Introduction](#introduction)
 
 <a name="introduction"></a>
+
 ## Introduction
 
 To track work time by tasks in addition to projects use the project and tasks tracking mode. You can set it on the `Group Settings` page.

@@ -9,11 +9,13 @@ description: About Configs on our Application
 - [Introduction](#introduction)
 
 <a name="introduction"></a>
+
 ## Introduction
 
 The configs are optional, they are activated according to your needs, offers the possibility to block or force certain actions of the members.
 
 <a name="configs"></a>
+
 ### Configs
 
 <div class="configs" markdown="1">
@@ -31,6 +33,7 @@ The configs are optional, they are activated according to your needs, offers the
 </div>
 
 <a name="one_uncompleted"></a>
+
 #### `One uncompleted`
 
 The `One uncompleted` config

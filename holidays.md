@@ -8,6 +8,7 @@ description: About Holidays on our Application
 - [Introduction](#introduction)
 
 <a name="introduction"></a>
+
 ## Introduction
 
 Application features allow groups to enter legal holidays, such as Christmas.

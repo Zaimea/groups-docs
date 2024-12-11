@@ -9,11 +9,13 @@ description: About Plugins on our Application
 - [Introduction](#introduction)
 
 <a name="introduction"></a>
+
 ## Introduction
 
 The plugins are optional, they are activated according to your needs and offer you increased efficiency when using the application.
 
 <a name="plugins"></a>
+
 ### Plugins
 
 <div class="plugins" markdown="1">
@@ -29,6 +31,7 @@ The plugins are optional, they are activated according to your needs and offer y
 </div>
 
 <a name="plugin-charts"></a>
+
 #### `Charts`
 
 The `Charts` plugin allows to see graphics about working hours and can be filtered
@@ -48,6 +51,7 @@ The `Charts` plugin allows to see graphics about working hours and can be filter
     Data labels: true/false
 
 <a name="plugin-clients"></a>
+
 #### `Clients`
 
 The `Clients` plugin allows to work with other company and can see information that belongs to them.
@@ -71,6 +75,7 @@ Members can be added to clients or not, they must be invited and if they accept 
 As above, the members will appear in the list of members and can be modified later.
 
 <a name="plugin-locking"></a>
+
 #### `Locking`
 
 The `Locking` plugin allows to lock records from modifications as per configurable schedule.
@@ -82,6 +87,7 @@ Essentially, it is 5 text fields separated by spaces. The fields hold possible v
     0 4 * * 1 - weekly on Mondays at 4:00
 
 <a name="plugin-monthly-quotas"></a>
+
 #### `Monthly Quotas`
 
 The `Monthly Quotas` plugin adds a capability for members to see their monthly work hour quotas.
@@ -98,12 +104,14 @@ Organizations may have different types of users such as full-time, part-time, co
 When set, this Quota Percent option changes the quota calculation algorithm for user accordingly. Empty, or non-set value means 100% of available quota.
 
 <a name="plugin-report-approval"></a>
+
 #### `Report Approval`
 
 The `Report Approval` plugin allows members with permissions `group:record:read` to read and `group:record:approve` to approve/disapprove a record created by a member.
 Records can be searched by `name`, `email`, `date`.
 
 <a name="plugin-templates"></a>
+
 #### `Templates`
 
 The `Templates` plugin provides an additional dropdown selector on time entry pages to select a text template with a predefined text. Upon changing, the Note field is filled with template body.
@@ -133,6 +141,7 @@ Customer comments: He clarified where I needed to go and everything went well.
 Otherwise, Incorrect `Note` data error shows up
 
 <a name="plugin-tasks"></a>
+
 #### `Tasks`
 
 The `Tasks` plugin allows to track work time by tasks in addition to projects use the project and tasks tracking mode. You can set it on the `Group Settings` page.

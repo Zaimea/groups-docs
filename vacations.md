@@ -8,6 +8,7 @@ description: About Vacations on our Application
 - [Introduction](#introduction)
 
 <a name="introduction"></a>
+
 ## Introduction
 
 Application features allow group members to enter their `vacation` days.

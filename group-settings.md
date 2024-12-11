@@ -8,6 +8,7 @@ description: About group settings on our Application
 - [Introduction](#introduction)
 
 <a name="introduction"></a>
+
 ## Introduction
 
 From here you can configure the group settings according to your preferences and needs,
