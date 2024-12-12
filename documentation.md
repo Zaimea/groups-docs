@@ -1,5 +1,4 @@
 - ## Getting Started
-    - [Introduction](/introduction)
     - [Usage](/usage)
 
 - ## Group Usage
