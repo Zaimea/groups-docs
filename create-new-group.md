@@ -4,10 +4,10 @@ description: About Group on our Application
 ---
 # Create New Group
 
-- [Introduction](#introduction)
+- [Create New Group](#create)
 
-<a name="introduction"></a>
+<a name="create"></a>
 
-## Introduction
+## Create New Group
 
-Application group features allow each registered user to create and belong to multiple groups. The group creation view is accessed via the top-right user navigation dropdown menu.
+Application features allow each registered user to create a new one or belong to multiple groups. The group creation view is accessed via the top-right user navigation dropdown menu or, if you don't belong to one, it will automatically display on screen.
