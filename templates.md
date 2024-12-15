@@ -43,7 +43,7 @@ Type of service: 🛑🛑🛑
 Customer comments: 🛑🛑🛑
 ```
 With the example template body above, users need to provide input in 3 sections, such as so:
-```bash
+```text
 Call to: Mr. Musterman
 Type of service: Instructions.
 Customer comments: He clarified where I needed to go and everything went well.

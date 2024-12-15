@@ -6,7 +6,6 @@ description: About roles on our Application
 # Group Roles
 
 - [Introduction](#introduction)
-
 - [Default Roles](#default-roles)  
     - [Owner](#owner)
     - [Top Manager](#top-manager)
@@ -15,9 +14,7 @@ description: About roles on our Application
     - [Supervisor](#supervisor)
     - [Member](#member)
     - [Client](#client)
-
 - [Custom Roles](#custom-roles)
-
 - [Role Permissions](#role-permissions)  
     - [Calendar](#calendar)
     - [User](#user)
@@ -35,7 +32,6 @@ description: About roles on our Application
     - [Vacations](#vacations)
     - [Monthly Quotas](#monthly-quotas)
     - [Lockings](#lockings)
-
 
 <a name="introduction"></a>
 
