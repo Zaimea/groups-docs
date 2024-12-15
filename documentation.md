@@ -7,7 +7,8 @@
     - [Group Roles](/group-roles)
     - [Plugins](/plugins)
     - [Configs](/configs)
-    - [Calendar](/calendar)
+    <!-- 
+    - [Calendar](/calendar) 
     - [Calendar Records](/calendar-records)
     - [Charts](/charts)
     - [Clients](/clients)
@@ -21,8 +22,9 @@
     - [Tasks](/tasks)
     - [Templates](/templates)
     - [Vacations](/vacations)
+    -->
 
-
+<!--
 - ## User Usage
     - [Profile](/profile)
     - [Delete Account](/delete-account)
@@ -30,3 +32,4 @@
     - [2FA](/two-factor-authentication)
     - [API Tokens](/api-tokens)
     - [Browser Sessions](/browser-sessions)
+-->
