@@ -1,12 +1,12 @@
 - ## Getting Started
-    - [Usage](/usage)
+    - [Usage](/docs/zaimea/{{version}}/usage)
 
 - ## Group Usage
-    - [Create New Group](/create-new-group)
-    - [Group Settings](/group-settings)
-    - [Group Roles](/group-roles)
-    - [Plugins](/plugins)
-    - [Configs](/configs)
+    - [Create New Group](/docs/zaimea/{{version}}/create-new-group)
+    - [Group Settings](/docs/zaimea/{{version}}/group-settings)
+    - [Group Roles](/docs/zaimea/{{version}}/group-roles)
+    - [Plugins](/docs/zaimea/{{version}}/plugins)
+    - [Configs](/docs/zaimea/{{version}}/configs)
     <!-- 
     - [Calendar](/calendar) 
     - [Calendar Records](/calendar-records)
