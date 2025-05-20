@@ -26,4 +26,4 @@ You can insert the start time and end or just the duration, depending on the cho
 - By clicking on a record, a pop-up will appear where you can read informations about the record.
 - By clicking and dragging a existing record, you can change the date.
 
-![Calendar](https://raw.githubusercontent.com/zaimea/zaimea-docs/main/preview/calendar.jpg)
+![Calendar](https://raw.githubusercontent.com/zaimea/groups-docs/main/preview/calendar.jpg)

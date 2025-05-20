@@ -37,7 +37,7 @@ To enable `locking`, check the Locking box in the `Plugins` section from `Group 
 
 You cann acces it `Group Panel` on sidebar menu you can find `Lockings`. The page that appears allows you to configure how locking works. On it, simply define your cron schedule for locking.
 
-![create-lockings](https://raw.githubusercontent.com/zaimea/zaimea-docs/main/preview/lockings.jpg)
+![create-lockings](https://raw.githubusercontent.com/zaimea/groups-docs/main/preview/lockings.jpg)
 
 <a name="examples"></a>
 
@@ -63,4 +63,4 @@ Unfortunately, cron format does not allow to specify every other week cut-off sc
 
 When users try to enter or modify records in a locked date interval, they see a Date range is locked error. Locking is not applied to users who have the `group:calendar:override_date_lock` or `group:calendar:override_own_date_lock` right.
 
-![create-lockings](https://raw.githubusercontent.com/zaimea/zaimea-docs/main/preview/locking-error.jpg)
+![create-lockings](https://raw.githubusercontent.com/zaimea/groups-docs/main/preview/locking-error.jpg)

@@ -22,7 +22,7 @@ Templates plugin in Application, when enabled, provides an additional dropdown s
 
 You can enable the `Templates` plugin on the `Plugins` section from `Group Settings`. Mark the checkbox and then click Save. After that, you can use the Configure link to the right of checkbox to add new templates.
 
-![Templates](https://raw.githubusercontent.com/zaimea/zaimea-docs/main/preview/templates-enable.jpg)
+![Templates](https://raw.githubusercontent.com/zaimea/groups-docs/main/preview/templates-enable.jpg)
 
 <a name="create"></a>
 
@@ -30,7 +30,7 @@ You can enable the `Templates` plugin on the `Plugins` section from `Group Setti
 
 Use the `Templates` page from `Group Panel` to add a new template. The screen may look like a screenshot below. Provide the required values and click the `Create` button.
 
-![Templates-create](https://raw.githubusercontent.com/zaimea/zaimea-docs/main/preview/templates-create.jpg)
+![Templates-create](https://raw.githubusercontent.com/zaimea/groups-docs/main/preview/templates-create.jpg)
 
 <a name="required-input"></a>
 

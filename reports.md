@@ -60,7 +60,7 @@ Use the Project and Task controls to filter report by project or task.
 
 The Approved selector is available on reports when you use the Report approval plugin. It allows to select approved, not approved, or all records for reporting.
 
-![Report Approved](https://raw.githubusercontent.com/zaimea/zaimea-docs/main/preview/reports-approved.jpg)
+![Report Approved](https://raw.githubusercontent.com/zaimea/groups-docs/main/preview/reports-approved.jpg)
 
 <a name="fields"></a>
 
@@ -68,7 +68,7 @@ The Approved selector is available on reports when you use the Report approval p
 
 Use the Show fields block to select columns for report.
 
-![Report Fields](https://raw.githubusercontent.com/zaimea/zaimea-docs/main/preview/reports-fields.jpg)
+![Report Fields](https://raw.githubusercontent.com/zaimea/groups-docs/main/preview/reports-fields.jpg)
 
 <a name="grouping"></a>
 

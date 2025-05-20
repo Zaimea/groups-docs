@@ -20,4 +20,4 @@ On the Charts page, you can:
 - Select time interval for chart using the Interval selector and the date/calendar. Options in the Interval selector are relative to the selected date in the calendar.
 
 
-![Charts](https://raw.githubusercontent.com/zaimea/zaimea-docs/main/preview/charts.jpg)
+![Charts](https://raw.githubusercontent.com/zaimea/groups-docs/main/preview/charts.jpg)
