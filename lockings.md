@@ -1,6 +1,13 @@
 ---
 title: Locking Records
 description: About locking records on our Application
+github: https://github.com/zaimea/groups-docs/edit/main/
+sections: 
+    introduction : 'Introduction'
+    enable : 'Enabling Locking Plugin'
+    configure : 'Configuring Records Locking'
+    examples : 'Locking Configuration Examples'
+    error : 'Date Range Is Locked Error'
 ---
 
 # Locking Records

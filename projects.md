@@ -1,6 +1,11 @@
 ---
 title: Projects
 description: About projects on our Application
+github: https://github.com/zaimea/groups-docs/edit/main/
+sections: 
+    introduction : 'Introduction'
+    manage : 'Manage Projects'
+    tracking-mode-projects-and-tasks : '"Projects and Tasks" Tracking Mode'
 ---
 
 # Projects

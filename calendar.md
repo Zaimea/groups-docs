@@ -1,6 +1,10 @@
 ---
 title: Calendar
 description: Calendar feature
+github: https://github.com/zaimea/groups-docs/edit/main/
+sections: 
+    introduction : 'Introduction'
+    usage : 'Usage'
 ---
 
 # Calendar
@@ -9,7 +13,6 @@ description: Calendar feature
 - [Usage](#usage)
 
 <a name="introduction"></a>
-
 ## Introduction
 
 Application has a Calendar feature. It allows group members to follow their work schedule, with multiple variations of settings, such as: projects, tasks, templates or clients.
@@ -19,7 +22,6 @@ You can insert the start time and end or just the duration, depending on the cho
 
 
 <a name="usage"></a>
-
 ## Usage
 
 - By clicking a day, a pop-up will appear where you have to complet some fields.

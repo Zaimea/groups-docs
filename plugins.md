@@ -1,6 +1,17 @@
 ---
 title: Plugins
 description: About Plugins on our Application
+github: https://github.com/zaimea/groups-docs/edit/main/
+sections: 
+    introduction : 'Introduction'
+    plugins : 'Plugins'
+    plugin-charts : 'Charts'
+    plugin-clients : 'Clients'
+    plugin-locking : 'Locking'
+    plugin-monthly-quotas : 'Monthly Quotas'
+    plugin-report-approval : 'Report Approval'
+    plugin-templates : 'Templates'
+    plugin-tasks : 'Tasks'
 ---
 
 # Plugins

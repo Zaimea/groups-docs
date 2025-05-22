@@ -1,6 +1,10 @@
 ---
 title: Two Factor Authentication
 description: About 2FA on our Application
+github: https://github.com/zaimea/groups-docs/edit/main/
+sections: 
+    introduction : 'Introduction'
+    enable : 'Enable'
 ---
 
 # 2FA - Two Factor Authentication

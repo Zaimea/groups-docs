@@ -1,6 +1,12 @@
 ---
 title: Templates
 description: About templates on our Application
+github: https://github.com/zaimea/groups-docs/edit/main/
+sections: 
+    introduction : 'Introduction'
+    enable : 'Enabling Templates Plugin'
+    create : 'Adding a Template'
+    required-input : 'Required Input Parts'
 ---
 
 # Templates

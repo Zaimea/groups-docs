@@ -1,6 +1,9 @@
 ---
 title: Charts
 description: About Charts on our Application
+github: https://github.com/zaimea/groups-docs/edit/main/
+sections: 
+    introduction : 'Introduction'
 ---
 
 # Charts
@@ -8,7 +11,6 @@ description: About Charts on our Application
 - [Introduction](#introduction)
 
 <a name="introduction"></a>
-
 ## Introduction
 
 To view `Charts`, you must activate the `Charts` plugin in the `Group settings` section `Plugins`.

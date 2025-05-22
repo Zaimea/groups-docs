@@ -1,6 +1,9 @@
 ---
 title: API Tokens
 description: About API on our Application
+github: https://github.com/zaimea/groups-docs/edit/main/
+sections: 
+    introduction : 'Introduction'
 ---
 
 # API Tokens
@@ -8,7 +11,6 @@ description: About API on our Application
 - [Introduction](#introduction)
 
 <a name="introduction"></a>
-
 ## Introduction
 
 In the future, it will receive an update for developers, helping to take information and send via API to our Application.
