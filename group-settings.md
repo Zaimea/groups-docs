@@ -80,5 +80,5 @@ Example: member working on a software development project doing various tasks su
 
 ###### On the separate page you can find details about Plugins and Configs
 
-- [Plugins](/plugins)
-- [Configs](/configs)
+- [Plugins](plugins)
+- [Configs](configs)
