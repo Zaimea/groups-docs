@@ -22,7 +22,7 @@ Zaimea is an application that helps you to simplify the reporting of working hou
 
 Don't need to write code or worry about having to pay for a IT team, with us, you can even help improve the application by requesting to add new features or reporting errors.
 
-> {note} The application can be used on your own or within a group/company. You can find more details by accessing [zaimea.com/prices](https://zaimea.com/prices)
+> {note} The application can be used on your own or within a group/company. You can find more details by accessing [Home](route('pricing'))
 
 <a name="why-zaimea"></a>
 ## Why Zaimea?
@@ -45,8 +45,8 @@ So I advanced to a fairly large variety of features and tested on my own, throug
 <a name="createing-an-account"></a>
 ## Creating an Account
 
-To access the application you must have an account, [register](https://zaimea.com/register) or [login](https://zaimea.com/login).
+To access the application you must have an account, [register](https://groups.zaimea.com/register) or [login](https://groups.zaimea.com/login).
 
-> {tip} Before registering please read our [Terms](https://zaimea.com/terms-of-service) and [Policy](https://zaimea.com//privacy-policy).
+> {tip} Before registering please read our [Terms](https://groups.zaimea.com/terms-of-service) and [Policy](https://groups.zaimea.com//privacy-policy).
 
 The next step is to create a group or join an existing one by receiving an email invitation.
