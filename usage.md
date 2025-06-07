@@ -22,7 +22,7 @@ Zaimea is an application that helps you to simplify the reporting of working hou
 
 Don't need to write code or worry about having to pay for a IT team, with us, you can even help improve the application by requesting to add new features or reporting errors.
 
-> {note} The application can be used on your own or within a group/company. You can find more details by accessing [Home](route('pricing'))
+> {note} The application can be used on your own or within a group/company. You can find more details by accessing [Pricing](route('pricing'))
 
 <a name="why-zaimea"></a>
 ## Why Zaimea?
