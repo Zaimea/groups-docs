@@ -11,18 +11,11 @@ sections:
 
 # Templates
 
-- [Introduction](#introduction)
-- [Enabling Templates Plugin](#enable)
-- [Adding a Template](#create)
-- [Required Input Parts](#required-input)
-
-<a name="introduction"></a>
+[[TOC]]
 
 ## Introduction
 
 Templates plugin in Application, when enabled, provides an additional dropdown selector on time entry pages to select a text template with a predefined text. Upon changing, the Note field is filled with template body.
-
-<a name="enable"></a>
 
 ## Enabling Templates Plugin
 
@@ -30,15 +23,11 @@ You can enable the `Templates` plugin on the `Plugins` section from `Group Setti
 
 ![Templates](https://raw.githubusercontent.com/zaimea/groups-docs/main/preview/templates-enable.jpg)
 
-<a name="create"></a>
-
 ## Adding a Template
 
 Use the `Templates` page from `Group Panel` to add a new template. The screen may look like a screenshot below. Provide the required values and click the `Create` button.
 
 ![Templates-create](https://raw.githubusercontent.com/zaimea/groups-docs/main/preview/templates-create.jpg)
-
-<a name="required-input"></a>
 
 ## Required Input Parts
 

@@ -8,9 +8,8 @@ sections:
 
 # API Tokens
 
-- [Introduction](#introduction)
+[[TOC]]
 
-<a name="introduction"></a>
 ## Introduction
 
 In the future, it will receive an update for developers, helping to take information and send via API to our Application.

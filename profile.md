@@ -6,10 +6,8 @@ sections:
     profile : 'Profile'
 ---
 
-- [Profile](#profile)
-
-<a name="profile"></a>
-
 ## Profile
 
-TODO
+[[TOC]]
+
+[TODO]

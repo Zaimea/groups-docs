@@ -8,9 +8,7 @@ sections:
 
 # Vacations
 
-- [Introduction](#introduction)
-
-<a name="introduction"></a>
+[[TOC]]
 
 ## Introduction
 

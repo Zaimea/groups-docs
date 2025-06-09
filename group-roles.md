@@ -11,35 +11,7 @@ sections:
 
 # Group Roles
 
-- [Introduction](#introduction)
-- [Default Roles](#default-roles)  
-    - [Owner](#owner)
-    - [Top Manager](#top-manager)
-    - [Manager](#manager)
-    - [Co Manager](#co-manager)
-    - [Supervisor](#supervisor)
-    - [Member](#member)
-    - [Client](#client)
-- [Custom Roles](#custom-roles)
-- [Role Permissions](#role-permissions)  
-    - [Calendar](#calendar)
-    - [User](#user)
-    - [Settings](#settings)
-    - [Calendar Records](#calendar-records)
-    - [Clients](#clients)
-    - [Holidays](#holidays)
-    - [Medicals](#medicals)
-    - [Projects](#projects)
-    - [Reports](#reports)
-    - [Charts](#charts)
-    - [Group Roles](#group-roles)
-    - [Tasks](#tasks)
-    - [Templates](#templates)
-    - [Vacations](#vacations)
-    - [Monthly Quotas](#monthly-quotas)
-    - [Lockings](#lockings)
-
-<a name="introduction"></a>
+[[TOC]]
 
 ## Introduction
 
@@ -48,11 +20,7 @@ Each role is assigned with a set of access rights(permissions), each allowing ac
 
 Below are descriptions of predefined roles.
 
-<a name="default-roles"></a>
-
 ## Defaul Roles
-
-<a name="owner"></a>
 
 #### Owner
 Owner user usually creates the group and initially configures the group.
@@ -61,8 +29,6 @@ Owner role is not editable.
 Access rights:
 ['*'] - can administer the group as a whole.
 ```
-
-<a name="top-manager"></a>
 
 #### Top manager
 Top manager is a top role in a group. A group in this case is the entire organization. This non-editable role has a full collection of possible access rights, with an exception of "['*']", which is reserved for group Owner (see the Owner role above). In other words, top manager role is an intrinsic, non-editable role for a general manager in an organization (root manager, owner) with all possible rights in a group all the way down. It is assigned to a trusted person. Accounts in one organization (main group) do not relate to accounts in other organizations (other groups) in any way. This means that a user can have several groups.
@@ -73,8 +39,6 @@ All default `Manager` role rights. They are described below
     #uses for:
         #-
 ```
-
-<a name="manager"></a>
 
 #### Manager
 Manager supervises a group of users, clients, supervisors, and co-managers by having most of access to group data. A person with mostly full set of permissions to a group.
@@ -110,8 +74,6 @@ Has all of the `Co-manager` role permissions plus the following.
     #uses for:
         #- update group settings in group panel
 ```
-
-<a name="co-manager"></a>
 
 #### Co-manager
 Co-manager performs some of group management tasks such as working with users, projects, tasks, generating reports. This role is useful for big groups. Small groups may do without co-managers. This role is almost like a group manager, but some tasks still require a manager to login. In other words, a co-manager is a person with an extended set of group management functions, who is helping a group manager with most of the work.
@@ -193,8 +155,6 @@ Has all of the `Supervisor` role permissions plus the following.
         #- delete member vacation in group panel
 ```
 
-<a name="supervisor"></a>
-
 #### Supervisor
 Supervisors have a small set of management functions in a group. 
 ```bash
@@ -240,8 +200,6 @@ They have all of default `Member` role permissions plus the following.
     #uses for:
         #- approve/disapprove members vacation
 ```
-
-<a name="member"></a>
 
 #### Member
 Users work with App by entering data and generating reports for themselves. By default, they do not have any management rights. Primary function for users is data entry and viewing their own data.
@@ -289,8 +247,6 @@ Default Member role access rights:
         #- create vacations in group panel
 ```
 
-<a name="client"></a>
-
 #### Client
 Client role is used with the Clients plugin. When it is enabled, a client user (which is external to a group) is a normal user to our platform and can view own data such as reports, charts in your group. 
 Clients do not have the calendarTrack right but can view what is entered into App by other users and is associated with this client.
@@ -300,19 +256,14 @@ Default client role access rights:
     #uses for:
         #- view all what belongs to in client panel.
 ```
-<a name="custom-roles"></a>
 
 ## Custom Roles
 
 A user with group:role:create or group:role:update permission has a capability to create and modify additional custom roles in group. New roles can be assigned a subset of access rights(permissions) that such user has. This is accomplished with Role editor as explained below. The same editor can be used to customize or delete roles that belongs to your group.
 
-<a name="role-permissions"></a>
-
 ## Role Permissions
 
 Below you can see all available permissions
-
-<a name="calendar"></a>
 
 #### Calendar
 ```bash
@@ -320,8 +271,6 @@ group:calendar:track                     - member can use calendar to track reco
 group:calendar:override_date_lock        - allows override date lock for lower rank roles.
 group:calendar:override_own_date_lock    - allows override date lock for self.
 ```
-
-<a name="user"></a>
 
 #### User
 ```bash
@@ -333,16 +282,12 @@ group:user:delete    - can remove user from group.
 group:user:update    - can update a group member.
 ```
 
-<a name="settings"></a>
-
 #### Settings
 ```bash
 group:setting:update         - allows to update group settings.
 group:setting:manage_configs - allows to manage group configs.
 group:setting:manage_plugins - allows to manage group plugins.
 ```
-
-<a name="calendar-records"></a>
 
 #### Calendar Records
 ```bash
@@ -351,8 +296,6 @@ group:record:read       - can read other group members records in group panel.
 group:record:approve    - can approve/disapprove other group members records in group panel.
 group:record:delete     - can delete records.
 ```
-
-<a name="clients"></a>
 
 #### Clients
 ```bash
@@ -364,8 +307,6 @@ group:client:read        - allows user to read clients belonging to the group.
 group:client:delete      - can delete existing clients.
 ```
 
-<a name="holidays"></a>
-
 #### Holidays
 ```bash
 group:holiday:view_own   - can read holidays belongs to.
@@ -374,8 +315,6 @@ group:holiday:create     - allows user to create holidays for group.
 group:holiday:read       - can read holidays.
 group:holiday:delete     - allows user to delete holidays for members.
 ```
-
-<a name="medicals"></a>
 
 #### Medicals
 ```bash
@@ -386,8 +325,6 @@ group:medical:approve    - allows user to approve/disapprove other group members
 group:medical:delete     - allows user to delete medicals for members.
 ```
 
-<a name="projects"></a>
-
 #### Projects
 ```bash
 group:project:view_own   - can read projects belongs to.
@@ -397,23 +334,17 @@ group:project:update     - allows user to update existing projects.
 group:project:delete     - allows user to delete group projects.
 ```
 
-<a name="reports"></a>
-
 #### Reports
 ```bash
 group:report:view_own - can generate reports with his own records.
 group:report:create   - can generate reports for all members of group.
 ```
 
-<a name="charts"></a>
-
 #### Charts
 ```bash
 group:chart:view_own - can view charts belongs to.
 group:chart:view     - can view charts for all members of group
 ```
-
-<a name="group-roles"></a>
 
 #### Group Roles
 ```bash
@@ -422,8 +353,6 @@ group:role:read   - can read group roles.
 group:role:update - allows user to update existing group roles.
 group:role:delete - allows user to delete existing group roles.
 ```
-
-<a name="tasks"></a>
 
 #### Tasks
 ```bash
@@ -434,8 +363,6 @@ group:task:update    - allows user update existing tasks.
 group:task:delete    - allows user to delete existing tasks.
 ```
 
-<a name="templates"></a>
-
 #### Templates
 ```bash
 group:template:view_own  - can read templates belong to.
@@ -444,8 +371,6 @@ group:template:read      - can read templates.
 group:template:update    - allows user to update existing templates.
 group:template:delete    - allows user to delete existing templates.
 ```
-
-<a name="vacations"></a>
 
 #### Vacations
 ```bash
@@ -456,14 +381,10 @@ group:vacation:approve   - allows user to approve/disapprove other group members
 group:vacation:delete    - allows user to delete vacations for members.
 ```
 
-<a name="monthly-quotas"></a>
-
 #### Monthly Quotas
 ```bash
 group:monthlyquotas:* - allows user to manage monthly quotas.
 ```
-
-<a name="lockings"></a>
 
 #### Lockings
 ```bash

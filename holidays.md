@@ -8,9 +8,7 @@ sections:
 
 # Holidays
 
-- [Introduction](#introduction)
-
-<a name="introduction"></a>
+[[TOC]]
 
 ## Introduction
 

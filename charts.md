@@ -8,9 +8,8 @@ sections:
 
 # Charts
 
-- [Introduction](#introduction)
+[[TOC]]
 
-<a name="introduction"></a>
 ## Introduction
 
 To view `Charts`, you must activate the `Charts` plugin in the `Group settings` section `Plugins`.

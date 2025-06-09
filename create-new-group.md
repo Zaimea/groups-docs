@@ -7,9 +7,9 @@ sections:
 ---
 
 # Create New Group
-- [Create New Group](#create)
 
-<a name="create"></a>
+[[TOC]]
+
 ## Create New Group
 
 Application features allow each registered user to create a new one or belong to multiple groups. 

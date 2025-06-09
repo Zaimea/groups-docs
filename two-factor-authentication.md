@@ -9,10 +9,7 @@ sections:
 
 # 2FA - Two Factor Authentication
 
-- [Introduction](#introduction)
-- [Enable](#enable)
-
-<a name="introduction"></a>
+[[TOC]]
 
 ## Introduction
 
@@ -23,8 +20,6 @@ sections:
 Application security features are accessed by the user using the top-right user profile navigation dropdown menu. Allow the user to enable and manage two-factor authentication for their account.
 
 When a user enables two-factor authentication for their account, they should scan the given QR code using a free TOTP authenticator application such as Google Authenticator. In addition, they should store the listed recovery codes in a secure password manager such as 1Password.
-
-<a name="enable"></a>
 
 ## Enable Two factor authentication
 

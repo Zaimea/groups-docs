@@ -12,13 +12,7 @@ sections:
 
 # Locking Records
 
-- [Introduction](#introduction)
-- [Enabling Locking Plugin](#enable)
-- [Configuring Records Locking](#configure)
-- [Locking Configuration Examples](#examples)
-- [Date Range Is Locked Error](#error)
-
-<a name="introduction"></a>
+[[TOC]]
 
 ## Introduction
 
@@ -32,21 +26,15 @@ Note 2: In addition to locking the following situations make records non-editabl
 If record is approved with the Report Approval plugin.
 We consider such records finalized and prohibit edits. If a record must be edited, remove a condition that locks it.
 
-<a name="enable"></a>
-
 ## Enabling Locking Plugin
 
 To enable `locking`, check the Locking box in the `Plugins` section from `Group Settings` and click Save.
-
-<a name="configure"></a>
 
 ## Configuring Records Locking
 
 You cann acces it `Group Panel` on sidebar menu you can find `Lockings`. The page that appears allows you to configure how locking works. On it, simply define your cron schedule for locking.
 
 ![create-lockings](https://raw.githubusercontent.com/zaimea/groups-docs/main/preview/lockings.jpg)
-
-<a name="examples"></a>
 
 ## Locking Configuration Examples
 
@@ -63,8 +51,6 @@ When the server time reaches 8:15 on the 1st day of any month, regular users wil
 When the server time reaches 10:00 on a Monday, regular users will not be able to enter or modify any records for dates earlier than Monday.
 - Biweekly
 Unfortunately, cron format does not allow to specify every other week cut-off schedule. Use either monthly or weekly locking instead. If you really need a biweekly schedule, you have to customize Time Tracker, perhaps via a customization job.
-
-<a name="error"> </a>
 
 ## Date Range Is Locked Error
 

@@ -8,9 +8,8 @@ sections:
 
 # Calendar Records
 
-- [Introduction](#introduction)
+[[TOC]]
 
-<a name="introduction"></a>
 ## Introduction
 
 TODO

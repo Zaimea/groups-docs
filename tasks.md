@@ -8,9 +8,7 @@ sections:
 
 # Tasks
 
-- [Introduction](#introduction)
-
-<a name="introduction"></a>
+[[TOC]]
 
 ## Introduction
 

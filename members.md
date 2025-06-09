@@ -8,9 +8,7 @@ sections:
 
 # Members
 
-- [Introduction](#introduction)
-
-<a name="introduction"></a>
+[[TOC]]
 
 ## Introduction
 Application group features allow each registered user to create and belong to multiple groups.

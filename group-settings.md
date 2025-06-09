@@ -10,20 +10,15 @@ sections:
 
 # Group Settings
 
-- [Introduction](#introduction)
-- [Name and Description](#name-and-description)
-- [Settings](#settings)
+[[TOC]]
 
-<a name="introduction"></a>
 ## Introduction
 From here can configure the group settings according to preferences and needs,
 
-<a name="name-and-description"></a>
 ## Name and Description
  - The name must be unique in our application.
  - The description is optional.
 
-<a name="settings"></a>
 ## Settings
 
 ###### Language: can choose between English, Romanian, German. Is used to download monthly reports and sending email notifications.

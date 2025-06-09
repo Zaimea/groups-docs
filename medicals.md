@@ -8,9 +8,7 @@ sections:
 
 # Medicals
 
-- [Introduction](#introduction)
-
-<a name="introduction"></a>
+[[TOC]]
 
 ## Introduction
 

@@ -6,9 +6,9 @@ sections:
     delete-account : 'Delete Account'
 ---
 
-- [Delete Account](#delete-account)
-
-<a name="delete-account"></a>
 ## Delete Account
 
-TODO
+[[TOC]]
+
+
+[TODO]
