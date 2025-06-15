@@ -2,8 +2,6 @@
 title: Create New Group
 description: About Group on our Application
 github: https://github.com/zaimea/groups-docs/edit/main/
-sections: 
-    create : 'Create New Group'
 ---
 
 # Create New Group

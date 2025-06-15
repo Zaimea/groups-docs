@@ -2,18 +2,6 @@
 title: Configs
 description: About Configs on our Application
 github: https://github.com/zaimea/groups-docs/edit/main/
-sections: 
-    introduction : 'Introduction'
-    configs: 'Configs'
-    config-one_uncompleted : 'One uncompleted'
-    config-allow_overlap : 'Allow overlap'
-    config-future_entries : 'Future entries'
-    config-allows_night_shifts : 'Allows nightshifts'
-    config-uncompleted_indicators : 'Uncompleted indicators'
-    config-confirm_saving : 'Confirm saving'
-    config-client_required : 'Client required'
-    config-task_required : 'Task required'
-    config-project_required : 'Project required'
 ---
 
 

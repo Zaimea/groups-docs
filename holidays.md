@@ -2,8 +2,6 @@
 title: Holidays
 description: About Holidays on our Application
 github: https://github.com/zaimea/groups-docs/edit/main/
-sections: 
-    introduction : 'Introduction'
 ---
 
 # Holidays

@@ -2,11 +2,6 @@
 title: How to use application
 description: How to use application
 github: https://github.com/zaimea/groups-docs/edit/main/
-sections: 
-    meet-zaimea : 'Meet Zaimea'
-    why-zaimea : 'Why Zaimea?'
-    how-it-started : 'How it started?'
-    creating-an-account : 'Creating an Account'
 ---
 
 # Application usage

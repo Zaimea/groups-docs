@@ -2,11 +2,6 @@
 title: Group Roles
 description: About roles on our Application
 github: https://github.com/zaimea/groups-docs/edit/main/
-sections: 
-    introduction : 'Introduction'
-    default-roles : 'Default Roles'
-    custom-roles : 'Custom Roles'
-    role-permissions : 'Role Permissions'
 ---
 
 # Group Roles

@@ -2,9 +2,6 @@
 title: Calendar
 description: Calendar feature
 github: https://github.com/zaimea/groups-docs/edit/main/
-sections: 
-    introduction : 'Introduction'
-    usage : 'Usage'
 ---
 
 # Calendar

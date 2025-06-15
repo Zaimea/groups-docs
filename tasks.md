@@ -2,8 +2,6 @@
 title: Tasks
 description: About tasks on our Application
 github: https://github.com/zaimea/groups-docs/edit/main/
-sections: 
-    introduction : 'Introduction'
 ---
 
 # Tasks

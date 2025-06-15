@@ -2,10 +2,6 @@
 title: Group Settings
 description: About group settings on our Application
 github: https://github.com/zaimea/groups-docs/edit/main/
-sections: 
-    introduction : 'Introduction'
-    name-and-description : 'Name and Description'
-    settings : 'Settings'
 ---
 
 # Group Settings

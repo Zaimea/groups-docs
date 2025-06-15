@@ -2,15 +2,6 @@
 title: Reports
 description: About reports on our Application
 github: https://github.com/zaimea/groups-docs/edit/main/
-sections: 
-    introduction : 'Introduction'
-    time-period : 'Selecting Time Period'
-    members : 'Selecting Members'
-    filtering-by-client : 'Filtering by Client'
-    filtering-by-project-or-task : 'Filtering by Project or Task'
-    approved-notapproved : 'Approved vs Not Approved Items'
-    fields : 'Selecting Fields to Display'
-    grouping : 'Grouping Report Items'
 ---
 
 # Reports

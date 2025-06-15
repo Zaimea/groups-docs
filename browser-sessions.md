@@ -2,8 +2,6 @@
 title: Browser Sessions
 description: About browser session on our Application
 github: https://github.com/zaimea/groups-docs/edit/main/
-sections: 
-    introduction : 'Introduction'
 ---
 
 # Browser Sessions

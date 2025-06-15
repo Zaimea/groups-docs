@@ -2,8 +2,6 @@
 title: Charts
 description: About Charts on our Application
 github: https://github.com/zaimea/groups-docs/edit/main/
-sections: 
-    introduction : 'Introduction'
 ---
 
 # Charts
