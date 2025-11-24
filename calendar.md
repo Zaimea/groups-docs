@@ -2,6 +2,9 @@
 title: Calendar
 description: Calendar feature
 github: https://github.com/zaimea/groups-docs/edit/main/
+onThisArticle: true
+sidebar: true
+rightbar: true
 ---
 
 # Calendar

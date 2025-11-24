@@ -2,6 +2,9 @@
 title: Tasks
 description: About tasks on our Application
 github: https://github.com/zaimea/groups-docs/edit/main/
+onThisArticle: true
+sidebar: true
+rightbar: true
 ---
 
 # Tasks

@@ -2,6 +2,9 @@
 title: Two Factor Authentication
 description: About 2FA on our Application
 github: https://github.com/zaimea/groups-docs/edit/main/
+onThisArticle: true
+sidebar: true
+rightbar: true
 ---
 
 # 2FA - Two Factor Authentication

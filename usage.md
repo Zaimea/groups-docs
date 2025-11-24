@@ -2,6 +2,9 @@
 title: How to use application
 description: How to use application
 github: https://github.com/zaimea/groups-docs/edit/main/
+onThisArticle: true
+sidebar: true
+rightbar: true
 ---
 
 # Application usage

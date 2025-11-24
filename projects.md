@@ -2,6 +2,9 @@
 title: Projects
 description: About projects on our Application
 github: https://github.com/zaimea/groups-docs/edit/main/
+onThisArticle: true
+sidebar: true
+rightbar: true
 ---
 
 # Projects

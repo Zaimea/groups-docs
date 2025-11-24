@@ -2,6 +2,9 @@
 title: Vacations
 description: About Vacations on our Application
 github: https://github.com/zaimea/groups-docs/edit/main/
+onThisArticle: true
+sidebar: true
+rightbar: true
 ---
 
 # Vacations

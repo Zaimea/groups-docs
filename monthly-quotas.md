@@ -2,6 +2,9 @@
 title: Monthly Quotas
 description: About monthly quotas on our Application
 github: https://github.com/zaimea/groups-docs/edit/main/
+onThisArticle: true
+sidebar: true
+rightbar: true
 ---
 
 # Monthly Quotas

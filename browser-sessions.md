@@ -2,6 +2,9 @@
 title: Browser Sessions
 description: About browser session on our Application
 github: https://github.com/zaimea/groups-docs/edit/main/
+onThisArticle: true
+sidebar: true
+rightbar: true
 ---
 
 # Browser Sessions
