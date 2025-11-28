@@ -1,5 +1,6 @@
 - ## Getting Started
     - [Usage](/docs/groups/{{version}}/usage)
+    - [Changelog](/docs/groups/{{version}}/changelog)
 
 - ## Group Usage
     - [Create New Group](/docs/groups/{{version}}/create-new-group)
