@@ -1,6 +1,11 @@
+- ## Website
+    
 - ## Getting Started
     - [Usage](/docs/groups/{{version}}/usage)
     - [Changelog](/docs/groups/{{version}}/changelog)
+    - [FAQ](/docs/groups/{{version}}/faq)
+    - [Contact](/docs/groups/{{version}}/contact)
+    - [Pricing](/docs/groups/{{version}}/pricing)
 
 - ## Group Usage
     - [Create New Group](/docs/groups/{{version}}/create-new-group)
